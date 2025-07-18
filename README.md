@@ -11,7 +11,7 @@ This repository contains my Java practice projects organized by topics as I lear
 
 ## About Me
 
-I am learning Java step-by-step and using this repo to track and organize my progress with clear numbering and folders.
+I am learning Java step-by-step and using this repo to track and organize my progress.
 
 ## How to Run
 

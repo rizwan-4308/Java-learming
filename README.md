@@ -8,6 +8,9 @@ This repository contains my Java practice projects organized by topics as I lear
 - `J02_variables/` — Java variables and data types
 - `J03_user_input/` — Taking user input using Scanner
 - `J04_Area_of_rectangle/` — Program to calculate the area of a rectangle
+- `J05_Operators/` - Java Operators
+- `J06_Shopping_Cart_Exercise/` - Shopping Cart program
+- `J07_if_Statements/` - performs a block of code if its condition is true
 
 ## About Me
 

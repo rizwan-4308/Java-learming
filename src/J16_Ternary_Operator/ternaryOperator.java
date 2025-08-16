@@ -1,4 +1,4 @@
-package J17_Ternary_Operator;
+package J16_Ternary_Operator;
 
 public class ternaryOperator {
     public static void main(String[] args){

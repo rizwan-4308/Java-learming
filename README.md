@@ -20,6 +20,7 @@ This repository contains my Java practice projects organized by topics as I lear
 - `J14_Sub_Strings/` - A method to extract portion of a string
 - `J15_Weight_Converter/` - Weight Conversion Program
 - `J16_Ternary_Operator/` - how to use ternary Operator
+- `J17_Temperature_Convertor/` - Added Temperature Conversion Program
 ## About Me
 
 I am learning Java step-by-step and using this repo to track and organize my progress.

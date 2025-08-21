@@ -24,6 +24,7 @@ This repository contains my Java practice projects organized by topics as I lear
 - `J18_Enhanced_Switches/` - how to use enhanced switches
 - `J19_Calculator/` - Added calculator program
 - `J20_Logical_Operators/` - Added logical operators
+- `J21_While_Loops/` - Added while & do while loops
 ## About Me
 
 I am learning Java step-by-step and using this repo to track and organize my progress.

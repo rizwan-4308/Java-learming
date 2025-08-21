@@ -23,6 +23,7 @@ This repository contains my Java practice projects organized by topics as I lear
 - `J17_Temperature_Convertor/` - Added Temperature Conversion Program
 - `J18_Enhanced_Switches/` - how to use enhanced switches
 - `J19_Calculator/` - Added calculator program
+- `J20_Logical_Operators/` - Added logical operators
 ## About Me
 
 I am learning Java step-by-step and using this repo to track and organize my progress.

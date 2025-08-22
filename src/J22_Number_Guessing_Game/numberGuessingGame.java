@@ -3,7 +3,7 @@ package J22_Number_Guessing_Game;
 import java.util.Random;
 import java.util.Scanner;
 
-public class numberGiessingGame {
+public class numberGuessingGame {
     public static void main(String[] args){
 
         Random random = new Random();

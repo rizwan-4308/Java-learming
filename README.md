@@ -26,6 +26,7 @@ This repository contains my Java practice projects organized by topics as I lear
 - `J20_Logical_Operators/` - Added logical operators
 - `J21_While_Loops/` - Added while & do while loops
 - `J22_Number_Guessing_Game/` - Added a number guessing game
+- `J23_For_loops/` - Added for loops
 ## About Me
 
 I am learning Java step-by-step and using this repo to track and organize my progress.
